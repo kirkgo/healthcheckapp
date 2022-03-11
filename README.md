@@ -1,5 +1,5 @@
 # Health Check App
-Aplicação Health Check - Exercise - FIAP
+Aplicação Health Check
 
 ## How to Use
 
