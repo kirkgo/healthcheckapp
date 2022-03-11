@@ -1,7 +1,7 @@
-# Health Check App
+# Sobre
 Aplicação Health Check
 
-## How to Use
+## Como usar? 
 
-Just clone the repo and open the index.html. 
+Faça o clone (ou o download) do projeto e abra em qualquer navegador web o arquivo index.html. 
 
